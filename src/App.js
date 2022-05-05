@@ -8,9 +8,9 @@ function App() {
   <>
   <h1>home home</h1>
   <ul>
-  <li><a href="">lundi</a></li>
-  <li><a href="">mardi</a></li>
- <li><a href="">mercredi</a></li>
+  <li>lundi</li>
+  <li>mardi</li>
+ <li>mercredi</li>
   </ul>
   </>
    
